@@ -4,6 +4,7 @@
     "description": "A boilerplate project",
     "main": "server.js",
     "author": "Val Angelo",
+    "test": "asdasd",
     "scripts": {
         "start": "node server.js"
     },
