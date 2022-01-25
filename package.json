@@ -3,7 +3,7 @@
     "version": "0.0.1",
     "description": "A boilerplate project",
     "main": "server.js",
-    "author": "Jane Doe",
+    "author": "Val Angelo",
     "scripts": {
         "start": "node server.js"
     },
