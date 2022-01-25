@@ -3,7 +3,6 @@
     "version": "0.0.1",
     "description": "A boilerplate project",
     "main": "server.js",
-    "author": "Val Angelo",
     "scripts": {
         "start": "node server.js"
     },
@@ -21,5 +20,6 @@
         "mongoose",
         "express"
     ],
-    "license": "MIT"
+    "license": "MIT",
+    "author": "Val Angelo",
 }
